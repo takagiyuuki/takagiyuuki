@@ -1,3 +1,14 @@
+# Wellcome to my page
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/yuukitakagi/yuukitakagi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/yuukitakagi/yuukitakagi/graphs/contributors"><img src="https://img.shields.io/github/contributors/yuukitakagi/yuukitakagi?color=blue"></a>
+    <a href="https://github.com/yuukitakagi/yuukitakagi/stargazers"><img src="https://img.shields.io/github/stars/yuukitakagi/yuukitakagi.svg?logo=github"></a>
+    <a href="https://github.com/yuukitakagi/yuukitakagi/network/members"><img src="https://img.shields.io/github/forks/yuukitakagi/yuukitakagi.svg?color=blue&logo=github"></a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=takagiyuuki&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takagiyuuki&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
