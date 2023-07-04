@@ -1,4 +1,4 @@
-# Wellcome to my page
+# Hi👋
 
 <!--   my-icons -->
 <p align="left">
@@ -24,12 +24,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=bash-customized)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+# 🛠️ Tech & Tools
 
-<!---
-takagiyuuki/takagiyuuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+ 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=takagiyuuki&theme=transparent&layout=compact&range=last_30_days&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takagiyuuki&theme=transparent&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takagiyuuki&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takagiyuuki&theme=transparent&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
