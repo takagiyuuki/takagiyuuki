@@ -10,10 +10,9 @@
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takagiyuuki&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered&rank_icon=github></a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered&rank_icon=github&custom_title=Status"></a>
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takagiyuuki&theme=transparent&hide_border=true&locale=en&count_private=true&langs_count=10&layout=donut"></a>
