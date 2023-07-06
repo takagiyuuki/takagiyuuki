@@ -1,19 +1,13 @@
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/yuukitakagi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/yuukitakagi/graphs/contributors"><img src="https://img.shields.io/github/contributors/yuukitakagi/yuukitakagi?color=blue"></a>
-    <a href="https://github.com/yuukitakagi/stargazers"><img src="https://img.shields.io/github/stars/yuukitakagi/yuukitakagi.svg?logo=github"></a>
-    <a href="https://github.com/yuukitakagi/network/members"><img src="https://img.shields.io/github/forks/yuukitakagi/yuukitakagi.svg?color=blue&logo=github"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Yuki Takagi</h1>
+<h3 align="center">A passionate backend/infra developer from Japan</h3>
+<h3 align="center">🌱Learning Python, Go</h3>
+<h2 align="center">Connect with me:</h2>
 
-<p align="center">
-    <h1>Hi 👋, I'm Yuki Takagi</h1>
-    <h3>A passionate backend/infra developer from Japan</h3>
-    <h3>🌱Learning Python, Go</h3>
-    <h3>Connect with me:</h3>
-    <a href="https://linkedin.com/in/takagiyuuki" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takagiyuuki" height="30" width="40" /></a>
-</p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="ja_JP" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="takagiyuuki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/takagiyuuki?trk=profile-badge">Yuki T.</a></div>
+<div class="badge-base LI-profile-badge" data-locale="ja_JP" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="takagiyuuki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/takagiyuuki?trk=profile-badge">Yuki T.</a></div>
+
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered)
@@ -35,11 +29,6 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=takagiyuuki&theme=tokyo-night&bg_color=00000000&hide_border=true"></a>
 </p>
-
-# Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=takagiyuuki&theme=transparent&show_icons=true&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
-[![python](https://github-readme-stats.vercel.app/api/pin/?username=takagiyuuki&repo=learning-python&theme=transparent&show_icons=true&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠️ Tech & Tools
 
