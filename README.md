@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuki Takagi</h1>
 <h3 align="center">A passionate backend/infra developer from Japan</h3>
 <h3 align="center">🌱Learning Python, Go</h3>
-<h2 align="center">Connect with me:</h2>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="ja_JP" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="takagiyuuki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/takagiyuuki?trk=profile-badge">Yuki T.</a></div>
-<div class="badge-base LI-profile-badge" data-locale="ja_JP" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="takagiyuuki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/takagiyuuki?trk=profile-badge">Yuki T.</a></div>
-
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered)
@@ -20,6 +13,8 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=takagiyuuki&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered&rank_icon=github&custom_title=Guthub Status"></a>
+</p>
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takagiyuuki&theme=transparent&hide_border=true&locale=en&count_private=true&langs_count=10&layout=donut"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
