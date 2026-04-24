@@ -30,10 +30,4 @@ Cloud / Platform / SRE / Backend を次のキャリアとして視野にいれ�
 **IaC / Automation** — Terraform · Ansible · Docker · GitHub Actions
 **Languages** — Python · TypeScript · Rust (learning) · Bash
 
-#### 🔗 Links
-
-[LinkedIn](https://linkedin.com/in/takagiyuuki)
-
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takagiyuuki&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
