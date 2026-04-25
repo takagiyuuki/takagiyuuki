@@ -25,9 +25,9 @@ Cloud / Platform / SRE / Backend を次のキャリアとして視野にいれ�
 
 #### 🛠 Tech
 
-**Cloud** — AWS · Azure
-**Network** — Cisco (Catalyst 9K / Nexus 9K / WLC / ASA) · Palo Alto · BGP · OSPF
-**IaC / Automation** — Terraform · Ansible · Docker · GitHub Actions
-**Languages** — Python · TypeScript · Rust (learning) · Bash
+- **Cloud** — AWS · Azure
+- **Network** — Cisco (Catalyst 9K / Nexus 9K / WLC / ASA) · Palo Alto · BGP · OSPF
+- **IaC / Automation** — Terraform · Ansible · Docker · GitHub Actions
+- **Languages** — Python · TypeScript · Rust (learning) · Bash
 
 ---
