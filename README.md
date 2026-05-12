@@ -5,8 +5,8 @@ Designing hybrid cloud on AWS/Azure with Cisco-based on-prem networks.
 Exploring the next step across Cloud / Platform / SRE / Backend.
 
 インフラエンジニアとして物理ネットワーク/クラウド構築、IaC化を行っています。
-AWS・AzureとCiscoベースのオンプレを繋ぐハイブリッドクラウド設計に携わっていますがクラウドネイティブ設計のほうが好きです。
-Cloud / Platform / SRE / Backend を次のキャリアとして視野にいれています。
+AWS・Azureとオンプレを繋ぐハイブリッドクラウド設計に携わっています。
+Cloud / Platform / SRE / DevOps を次のキャリアとして視野にいれています。
 
 ---
 
