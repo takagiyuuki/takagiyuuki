@@ -4,10 +4,6 @@ Infrastructure engineer in Tokyo 🇯🇵 — bridging physical networks, cloud,
 Designing hybrid cloud on AWS/Azure with Cisco-based on-prem networks.
 Exploring the next step across Cloud / Platform / SRE / Backend.
 
-インフラエンジニアとして物理ネットワーク/クラウド構築、IaC化を行っています。
-AWS・Azureとオンプレを繋ぐハイブリッドクラウド設計に携わっています。
-Cloud / Platform / SRE / DevOps を次のキャリアとして視野にいれています。
-
 ---
 
 #### 🧭 Focus
