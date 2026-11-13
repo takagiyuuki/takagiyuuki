@@ -16,7 +16,6 @@ Exploring the next step across Cloud / Platform / SRE / Backend.
 #### 🚧 Currently
 
 - Building a full-cycle portfolio: **FastAPI + Terraform + AWS**
-- Learning **Rust** for CLI tooling
 - Studying Cisco **NX-OS / EVE-NG** for deeper L2/L3 protocol work
 
 #### 🛠 Tech
@@ -24,6 +23,6 @@ Exploring the next step across Cloud / Platform / SRE / Backend.
 - **Cloud** — AWS · Azure
 - **Network** — Cisco (Catalyst 9K / Nexus 9K / WLC / ASA) · Palo Alto · BGP · OSPF
 - **IaC / Automation** — Terraform · Ansible · Docker · GitHub Actions
-- **Languages** — Python · TypeScript · Rust (learning) · Bash
+- **Languages** — Python · TypeScript · Bash
 
 ---
