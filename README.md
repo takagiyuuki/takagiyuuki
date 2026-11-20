@@ -13,11 +13,6 @@ Exploring the next step across Cloud / Platform / SRE / Backend.
 - **Infrastructure as Code** — Terraform, Ansible, GitHub Actions
 - **Expanding into** — Python (FastAPI), Rust, Kubernetes
 
-#### 🚧 Currently
-
-- Building a full-cycle portfolio: **FastAPI + Terraform + AWS**
-- Studying Cisco **NX-OS / EVE-NG** for deeper L2/L3 protocol work
-
 #### 🛠 Tech
 
 - **Cloud** — AWS · Azure
