@@ -11,7 +11,6 @@ Exploring the next step across Cloud / Platform / SRE / Backend.
 - **Hybrid cloud architecture** — BGP-based AWS/Azure ↔ on-prem connectivity
 - **Network Infrastructure** — Cisco Catalyst / Nexus / Palo Alto / DNAC
 - **Infrastructure as Code** — Terraform, Ansible, GitHub Actions
-- **Expanding into** — Python (FastAPI), Rust, Kubernetes
 
 #### 🛠 Tech
 
